@@ -1,14 +1,12 @@
-```markdown
-**As a** site administrator  
-**I need** to update customer information  
-**So that** I can keep customer records up to date  
+**As a** [role]  
+**I need** [function]  
+**So that** [benefit]  
 
 ### **Details and Assumptions**
-- Customer information includes "Name," "Address," and "Email."
-- Only authenticated administrators can update customer details.
+- [Document what you know]  
 
 ### **Acceptance Criteria**  
 ```gherkin
-Given the user is logged in as an administrator  
-When they edit customer details and click "Save"  
-Then the updated information is stored in the database  
+Given [some context]  
+When [a specific action is taken]  
+Then [the expected outcome is observed]  
